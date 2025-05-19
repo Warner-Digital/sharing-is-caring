@@ -1,4 +1,4 @@
-# Sharing is Caring
+# Sharing is Caring 🧡💜
 
 This repository is used to provide hands-on guidance on how to contribute to the The Microsoft 365 & Power Platform Community community. and open-source initiatives.
 
